@@ -1,5 +1,5 @@
 # iOS-YiLianApp-O2O-
-YiLianApp(O2O) By Samboo
+YiLianApp(O2O) By Samboo.
 
 正处在研发阶段, 研发完毕后适时上传.
 
